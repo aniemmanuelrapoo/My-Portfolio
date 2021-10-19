@@ -1,0 +1,140 @@
+{
+  "main": {
+    "name": "Ani Emmanuel",
+    "occupation": "MERN Stack Developer",
+    "description": "I eat, sleep and breathe React",
+    "image": "profilepic.jpeg",
+    "bio": "Hi there! I am Emmanuel! You might also know me as Rapoo. I've been coding for over 3 years now. As a Full Stack developer. I'm a MERN stack Developer and a web developer, good with React-Js, Nodejs, MongoDB and Express. I've worked with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers and most especially love building new ideas on different projects. With this passion, I have now built many projects and still working on building much more projects. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world and enjoy wonderful sites and applications built and delivered right on Time",
+    "contactmessage": "Get in touch with me",
+    "email": "aniemmanuelrapo@gmail.com",
+    "phone": "+2348183225008",
+    "address": {
+      "street": "32 Nike Road Abakpa",
+      "city": "Nigeria",
+      "state": "Enugu",
+      "zip": "400213"
+    },
+    "website": "https://github.com/aniemmanuelrapoo",
+    "resumedownload": "https://github.com/aniemmanuelrapoo",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UC1nUbX7PDngfTxQMGzmegFA",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://web.facebook.com/aniemmanuel.rapoo",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/emmanuel-rapoo-743958204/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/rapoo_code/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/aniemmanuelrapoo",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Tansian University",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "July 2021",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "Digital Dreams",
+        "title": "FrontEnd Developer",
+        "years": "August 2021 - Present",
+        "description": "Cloning all the apps possible. On the way to clone the world! Love Teaching and coding"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Node Js",
+        "level": "60%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Covid-19-Tracker Clone (React JS)",
+        "category": "",
+        "image": "UQ4IH7A7UNBFPMO5SQPY6SFBRQ.webp",
+        "url": "https://aniemmanuel-covid-19-tracker.web.app/"
+      },
+      {
+        "title": "Instgram Clone (React JS)",
+        "category": "",
+        "image": "maxresdefault.jpg",
+        "url": "https://aniemmanuel-instagram-clone.web.app/"
+      },
+      {
+        "title": "Airbnb Clone (React JS)",
+        "category": "",
+        "image": "1_VnLVIFGTkUbYDHud107F_A.jpeg",
+        "url": "https://aniemmanuel-airbnb-clone.web.app/"
+      },
+      {
+        "title": "Spotify Clone (React JS)",
+        "category": "",
+        "image": "1_nwlU17J34ToIIaQW4blOsw.jpeg",
+        "url": "https://ani-emmanuel-spotify-clone.web.app/"
+      },
+      {
+        "title": " Styled-Component-Tailwind (React JS)",
+        "category": "",
+        "image": "yjt6njwrcmrlxfk6d7nx.png",
+        "url": "https://aniemmanuel-styledcom-tailwind.web.app/"
+      },
+      {
+        "title": "Framer Motion (React JS)",
+        "category": "",
+        "image": "1627221471384.jpeg",
+        "url": "https://aniemmanuel-framer-motion.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Emmanuel is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Mark"
+      },
+      {
+        "text": "Learning with Emmanuel has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Light"
+      }
+    ]
+  }
+}
