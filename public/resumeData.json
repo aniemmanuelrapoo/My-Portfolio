@@ -88,6 +88,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Amazon Clone (React JS)",
+        "category": "",
+        "image": "amazon.png",
+        "url": "https://aniemmanuel--clone-1b891.web.app/"
+      },
+      {
         "title": "Covid-19-Tracker Clone (React JS)",
         "category": "",
         "image": "UQ4IH7A7UNBFPMO5SQPY6SFBRQ.webp",
