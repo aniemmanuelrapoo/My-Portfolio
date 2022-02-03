@@ -106,16 +106,16 @@
         "url": "https://aniemmanuel-covid-19-tracker.web.app/"
       },
       {
-        "title": "Whatsapp Clone (MERN)",
-        "category": "",
-        "image": "Create-WhatsApp-Clone-2-1140x515.png",
-        "url": "https://ani-emmanuel-whatsapp-cl-4301a.web.app/"
-      },
-      {
         "title": "Sport Bet (React JS)",
         "category": "",
         "image": "bet.jpg",
         "url": "https://aniemmanuelsportbet.netlify.app/"
+      },
+      {
+        "title": "Whatsapp Clone (MERN)",
+        "category": "",
+        "image": "Create-WhatsApp-Clone-2-1140x515.png",
+        "url": "https://ani-emmanuel-whatsapp-cl-4301a.web.app/"
       },
       {
         "title": "Airbnb Clone (React JS)",
