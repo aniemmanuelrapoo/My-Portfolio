@@ -20,7 +20,7 @@
       {
         "name": "whatsapp",
         "url": "https://www.youtube.com/channel/UC1nUbX7PDngfTxQMGzmegFA",
-        "className": "fa fa-youtube"
+        "className": "fa fa-whatsapp"
       },
       {
         "name": "facebook",
@@ -65,11 +65,11 @@
         "company": "Digital Dreams",
         "title": "FrontEnd Developer/Web Instructor",
         "years": "August 2021 - Febuary 2022",
-        "description": "I Thought Web Development, React Js, Redux, Javascript, Node Js, Mongo Db, Tailwind Css, Styled Component, Express Js, Rest Api, React Bootstrap, Firebase And Many Others. Also Work As A Front End Developer"
+        "description": "I Thought Web Development, React Js, Redux, Javascript, Python, Node Js, Mongo Db, Tailwind Css, Styled Component, Express Js, Rest Api, React Bootstrap, Firebase And Many Others. Also Work As A Front End Developer"
       },
       {
         "company": "Gradenet",
-        "title": "FrontEnd Developer/Web Instructor",
+        "title": "Full Stack Developer/Web Instructor",
         "years": "Febuary 2022 - Present",
         "description": "This Is My Place Of Primary Assignment For My National Youth Service Corps (NYSC) I Thought Web Development, Also Work As A Full Stack Developer with Laravel and MySql"
       }
