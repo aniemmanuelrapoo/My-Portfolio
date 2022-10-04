@@ -4,7 +4,7 @@
     "occupation": "Full Stack Developer",
     "description": "I eat, sleep and breathe React",
     "image": "profilepic.jpeg",
-    "bio": "Hi there! I am Emmanuel! You might also know me as Rapoo. I've been coding for over 4 years now. As a Full Stack developer. good with React-Js, Laravel, MySql and Typescript. I've worked with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers and most especially love building new ideas on different projects. With this passion, I have now built many projects and still working on building much more projects. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world and enjoy wonderful sites and applications built and delivered right on Time",
+    "bio": "Hi there! I am Emmanuel! You might also know me as Rapoo. I've been coding for over 4 years now. As a Full Stack developer. good with React-Js, Typescript, Laravel and MySql. I've worked with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers and most especially love building new ideas on different projects. With this passion, I have now built many projects and still working on building much more projects. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world and enjoy wonderful sites and applications built and delivered right on Time",
     "contactmessage": "Get in touch with me",
     "email": "aniemmanuelrapo@gmail.com",
     "phone": "+2348183225008",
@@ -18,9 +18,9 @@
     "resumedownload": "https://elegantcv.app/export/resume/bf0c7867-d7c9-417a-b6e8-99f9525c1300?type=pdf&onePage=true&redneg=female&locale=en",
     "social": [
       {
-        "name": "youtube",
+        "name": "whatsapp",
         "url": "https://www.youtube.com/channel/UC1nUbX7PDngfTxQMGzmegFA",
-        "className": "fa fa-youtube"
+        "className": "fa fa-whatsapp"
       },
       {
         "name": "facebook",
@@ -56,10 +56,22 @@
     ],
     "work": [
       {
+        "company": "Modern Ideal College",
+        "title": "Web Instructor",
+        "years": "Febuary 2020 - July 2021",
+        "description": "I Thought Web Development And Front End Design Like Html5, Css3, Javascript, Tailwind Css, Bootstrap And Many Others"
+      },
+      {
         "company": "Digital Dreams",
-        "title": "FrontEnd Developer",
-        "years": "August 2021 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Love Teaching and coding"
+        "title": "FrontEnd Developer/Web Instructor",
+        "years": "August 2021 - Febuary 2022",
+        "description": "I Thought Web Development, React Js, Redux, Javascript, Node Js, Mongo Db, Tailwind Css, Styled Component, Express Js, Rest Api, React Bootstrap, Firebase And Many Others. Also Work As A Front End Developer"
+      },
+      {
+        "company": "Gradenet",
+        "title": "FrontEnd Developer/Web Instructor",
+        "years": "Febuary 2022 - Present",
+        "description": "This Is My Place Of Primary Assignment For My National Youth Service Corps (NYSC) I Thought Web Development, Also Work As A Full Stack Developer with Laravel and MySql"
       }
     ],
     "skills": [
@@ -68,15 +80,15 @@
         "level": "100%"
       },
       {
-        "name": "Node Js",
+        "name": "Typescript",
         "level": "60%"
       },
       {
-        "name": "Git",
-        "level": "70%"
+        "name": "Laravel",
+        "level": "80%"
       },
       {
-        "name": "JavaScript",
+        "name": "Rest Api",
         "level": "80%"
       },
       {
