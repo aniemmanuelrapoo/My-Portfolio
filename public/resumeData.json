@@ -20,7 +20,7 @@
       {
         "name": "whatsapp",
         "url": "https://www.youtube.com/channel/UC1nUbX7PDngfTxQMGzmegFA",
-        "className": "fa fa-commenting-o"
+        "className": "fa fa-envelope"
       },
       {
         "name": "facebook",
@@ -29,7 +29,7 @@
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/emmanuel-rapoo-743958204/",
+        "url": "https://www.linkedin.com/in/emmanuel-ani-743958204/",
         "className": "fa fa-linkedin"
       },
       {
@@ -47,6 +47,12 @@
   "resume": {
     "skillmessage": "My Programming Language Proficiency",
     "education": [
+      {
+        "school": "Modern Ideal College",
+        "degree": "West African Senior School Certificate Examination (WASSCE)",
+        "graduated": "March 2016",
+        "description": ""
+      },
       {
         "school": "Tansian University",
         "degree": "Bachelor's Degree, Computer Science",
@@ -71,7 +77,7 @@
         "company": "Gradenet",
         "title": "Full Stack Developer/Web Instructor",
         "years": "Febuary 2022 - Present",
-        "description": "This Is My Place Of Primary Assignment For My National Youth Service Corps (NYSC) I Thought Web Development, Also Work As A Full Stack Developer with Laravel and MySql"
+        "description": "This Is My Place Of Primary Assignment For My National Youth Service Corps (NYSC) I Thought Web Development, Also Work As A Full Stack Developer With React js As Frontend And Laravel and MySql As Backend"
       }
     ],
     "skills": [
