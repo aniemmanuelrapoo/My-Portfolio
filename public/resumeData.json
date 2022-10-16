@@ -108,14 +108,32 @@
       {
         "title": "NYSC Support Platfrom",
         "category": "",
-        "image": "nysc support.png",
+        "image": "nyscsupport.png",
         "url": "https://www.nysctarabacs.com/"
       },
       {
-        "title": "Amazon Clone (React JS)",
+        "title": "Fitness Vawulens",
         "category": "",
-        "image": "amazon.png",
-        "url": "https://aniemmanuel--clone-1b891.web.app/"
+        "image": "fitness.png",
+        "url": "https://rapoo-fitness-website.netlify.app/"
+      },
+      {
+        "title": "Rapoo CV",
+        "category": "",
+        "image": "rapoo cv.png",
+        "url": "https://rapoo-cv.netlify.app/"
+      },
+      {
+        "title": "Bakery Store",
+        "category": "",
+        "image": "bakery.png",
+        "url": "https://devine-treasure-bakery.netlify.app/"
+      },
+      {
+        "title": "Blog Website",
+        "category": "",
+        "image": "blogimg.png",
+        "url": "https://rapoo-blog-website.netlify.app/"
       },
       {
         "title": "Covid-19-Tracker Clone (React JS)",
@@ -123,24 +141,7 @@
         "image": "UQ4IH7A7UNBFPMO5SQPY6SFBRQ.webp",
         "url": "https://aniemmanuel-covid-19-tracker.web.app/"
       },
-      {
-        "title": "Sport Bet (React JS)",
-        "category": "",
-        "image": "bet.jpg",
-        "url": "https://aniemmanuelsportbet.netlify.app/"
-      },
-      {
-        "title": "Whatsapp Clone (MERN)",
-        "category": "",
-        "image": "Create-WhatsApp-Clone-2-1140x515.png",
-        "url": "https://ani-emmanuel-whatsapp-cl-4301a.web.app/"
-      },
-      {
-        "title": "Airbnb Clone (React JS)",
-        "category": "",
-        "image": "1_VnLVIFGTkUbYDHud107F_A.jpeg",
-        "url": "https://aniemmanuel-airbnb-clone.web.app/"
-      },
+      
       {
         "title": " Styled-Component-Tailwind (React JS)",
         "category": "",
